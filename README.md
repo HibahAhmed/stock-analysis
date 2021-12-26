@@ -2,7 +2,7 @@
 
 ## Overview of Project 
 
-### Steve's parents are investing in Daqo New Energy Corporation (DQ). Both green energy as well as DQ stocks are analyzed with the help of VBA. VBA is a programing language that is being used in this module to help make calculations and analyze using code which decreases possible errors and miscalculations. 
+### Steve's parents are investing in Daqo New Energy Corporation (DQ). Both green energy as well as DQ stocks are analyzed with the help of VBA. VBA is a programing language that is being used in this module to help make calculations and analyze using code which decreases possible errors and miscalculations. This was done with the help of enabling and creating macros along with different data types. 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
