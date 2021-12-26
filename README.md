@@ -17,4 +17,4 @@
 
 ## Summary
 
-### VBAAA
+### Refactoring code is the process of editing anf changing on existening code all the while keeping the goal of the code consistent. It can be very useful in maintaining and fixing codde. It is also common to reconstruct a code and make last minute changes. However, there are also some cons to refactoring code. Sometimes refactoring code can taje longer than writing the code itself and this can lead to issues in the code later. The VBA script was very helpful in refacotring and made the VBA script easier and faster to refactor. However, it can also get very confusing at times with the different scipts and the minor changes which lead to other errors that were not present before therefore, leading to more time being spent on the code itself.
